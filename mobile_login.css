@@ -278,6 +278,7 @@
   justify-content: center;
   margin: 1rem;
   width: 100%;
+  margin-top: 2rem;
 }
 
 .otp-container {
@@ -350,7 +351,7 @@ font-family: DM Sans;
 font-size: 0.876rem;
 font-weight: 500;
 cursor: pointer;
-margin-bottom: 3rem;
+margin-bottom: 5rem;
 }
 
 .mobile_login_otp{
